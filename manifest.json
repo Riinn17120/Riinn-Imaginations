@@ -1,0 +1,21 @@
+
+{
+  "id": "./",
+  "name": "YumeImagines",
+  "short_name": "Yume",
+  "description": "Lưu giữ những kỉ niệm đáng nhớ của bạn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100d20",
+  "theme_color": "#100d20",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://placehold.co/512x512/100d20/ffffff.png?text=Y",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
